@@ -1,3 +1,3 @@
-## Climate Change AI 2024 
+## Wellcome Trust Climate and Mental Health
 
-This repository contains all code to reproduce the NOURISH dataset. 
+This repository contains all code to reproduce the CHIASM dataset. 
